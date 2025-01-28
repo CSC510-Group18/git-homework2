@@ -7,7 +7,7 @@
 
 ## 📝 Introduction
 
-## Cowboy Cat (Thanks Jeff!)
+## Cowboy Cat (Thanks @jeff-pow!)
 ![image](https://github.com/user-attachments/assets/b18204c8-14f1-4d5e-bdae-4182dbdfad39)
 
 ## Image - Git Tutorial Screenshots
