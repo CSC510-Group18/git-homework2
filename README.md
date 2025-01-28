@@ -14,8 +14,8 @@
 ![Main Topics Screenshot](https://github.com/user-attachments/assets/86eca7dd-a7a7-438c-a91a-9966cc323559)
 ![Remote Topic Screenshot](https://github.com/user-attachments/assets/30d26ecc-27c4-49f7-9b4c-211a4a82b154)
 
-![Main Topics](https://github.com/CSC510-Group18/git-homework2/blob/jrpowel9/assets/Screenshot_20250126_180745.png)
-![Remote Topics](https://github.com/CSC510-Group18/git-homework2/blob/jrpowel9/assets/Screenshot_20250126_180819.png)
+![Main Topics](https://github.com/CSC510-Group18/git-homework2/blob/main/assets/Screenshot_20250126_180745.png)
+![Remote Topics](https://github.com/CSC510-Group18/git-homework2/blob/main/assets/Screenshot_20250126_180819.png)
 
 ## Code Example
 
