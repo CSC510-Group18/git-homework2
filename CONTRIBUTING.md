@@ -1,0 +1,1 @@
+There aren't specific protocols for contributing to this repository. Be safe and have fun!
