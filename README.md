@@ -29,3 +29,7 @@ print("Hello, World!")![Uploading Main Topics Screenshot.jpg…]()
 - [x] Task 1
 - [ ] Task 2
 - [ ] Task 3
+
+## Github Game Progress
+
+![Github Game Progress](assets/git_game_progress.png)
