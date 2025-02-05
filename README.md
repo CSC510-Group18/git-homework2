@@ -26,9 +26,11 @@ print("Hello, World!")![Uploading Main Topics Screenshot.jpg…]()
 
 ## Task List
 
-- [x] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [x] Task 1: Complete Git Tutorial
+- [x] Task 2: Add Screenshots to README.md
+- [x] Task 3: Modify .html File
+- [x] Task 4: Merge latest changes
+- [x] Task 5: Review pull requests
 
 ## Github Game Progress
 
